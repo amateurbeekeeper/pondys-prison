@@ -1,0 +1,1 @@
+White 0 0 [ Safe ( Apple Hotdog ) Empty Bookcase ] [ Safe ( PondysShoes ) Empty Empty ] [ Empty Bookcase Puzzle ] [ Door ( Red ) Empty Empty ]

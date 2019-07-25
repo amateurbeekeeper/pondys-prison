@@ -1,0 +1,4 @@
+White 1 0 [ Chest ( Hotdog ) Painting Empty ] [ Chest ( Hotdog ) Painting Decoration ] [ Empty Bookcase Puzzle ] [ Empty Bookcase Puzzle ]
+Green 0 1 [ Door ( Blue ) Empty Empty ] [ Door ( Red ) Empty Empty ] [ Safe ( PondysShoes ) Empty Empty ] [ Chest ( Apple Cookie ) Painting Empty ]
+Orange 1 1 [ Bin ( Burger ) Painting Empty ] [ Safe ( PondysShoes ) Empty Empty ] [ Empty Bookcase Puzzle ] [ Door ( Red ) Empty Empty ]
+Red 0 0 [ Chest ( Bluekey Hotdog ) Painting Empty ] [ Safe ( PondysShoes ) Bookcase Empty ] [ Door ( Blue ) Empty Empty ] [ Empty Bookcase Puzzle ]
